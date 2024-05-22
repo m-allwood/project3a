@@ -1,0 +1,22 @@
+{
+  "name": "project3a",
+  "version": "1.0.0",
+  "description": "learn and play with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-allwood/project3a.git"
+  },
+  "author": "matta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-allwood/project3a/issues"
+  },
+  "homepage": "https://github.com/m-allwood/project3a#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
